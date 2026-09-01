@@ -1,5 +1,8 @@
 # Altifigence
 
-Altifigence™ is the company operating PCCX™ technology.
+Altifigence builds and ships EDA tools for RTL and chip development, alongside
+3D physical simulation software.
 
-This organization is used for business operations, legal, and brand materials. Public PCCX™ technology repositories are maintained under [pccxai](https://github.com/pccxai).
+Our products are SystemVerilog IDE, ISA Studio, and ALcad.
+
+[Website](https://www.altifigence.com) · [Documentation](https://docs.altifigence.com)
