@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: DDS developer documentation
+    url: https://docs.altifigence.com/developers/plugin-sdk/
+    about: Installation, examples, APIs, licensing and host support
+  - name: Private vulnerability reporting
+    url: https://github.com/Altifigence/.github/blob/main/SECURITY.md
+    about: Find the repository's private reporting path before sharing security details

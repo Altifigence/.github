@@ -1,0 +1,17 @@
+name: Feature request
+description: Propose an improvement with a concrete use case
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem and use case
+      description: Explain who needs this and the current limitation
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed behavior and alternatives
+      description: Include relevant compatibility, permissions or privacy needs
+    validations:
+      required: true
